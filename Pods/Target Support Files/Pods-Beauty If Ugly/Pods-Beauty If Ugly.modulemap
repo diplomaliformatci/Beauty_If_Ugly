@@ -1,0 +1,6 @@
+framework module Pods_Beauty_If_Ugly {
+  umbrella header "Pods-Beauty If Ugly-umbrella.h"
+
+  export *
+  module * { export * }
+}

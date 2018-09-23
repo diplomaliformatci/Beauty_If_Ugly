@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>793375588120-4n9nji95iugf5ccsjopn5e41obi64vhd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.793375588120-4n9nji95iugf5ccsjopn5e41obi64vhd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDStnGqlJ4BH7QxjCkDdXZ1VTx1BTiUrtA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>793375588120</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>diplomaliformatci.Beauty-If-Ugly</string>
+	<key>PROJECT_ID</key>
+	<string>beauty-if-ugly</string>
+	<key>STORAGE_BUCKET</key>
+	<string>beauty-if-ugly.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:793375588120:ios:45a36ee4d43858a1</string>
+	<key>DATABASE_URL</key>
+	<string>https://beauty-if-ugly.firebaseio.com</string>
+</dict>
+</plist>
